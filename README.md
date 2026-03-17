@@ -8,8 +8,6 @@ An AI-powered lead generation and scraping system built with Python and Streamli
 
 LeadGen Scraper lets you find qualified leads by entering plain-language queries or profile URLs. The system automatically classifies your intent (search mode vs. profile scraping mode), routes requests to the appropriate platforms, filters results with an AI quality score, and saves everything to MongoDB Atlas.
 
-**Built by [Hustle House](https://hustlehouse.app) for B2B lead generation workflows.**
-
 ---
 
 ## ✨ Features
@@ -189,8 +187,3 @@ Use the **Download as CSV** button to export results.
 - Rotate API keys regularly and use environment-specific keys for staging vs. production.
 
 ---
-
-## 👤 Author
-
-**Krishna Jaiswal** — [Hustle House](https://hustlehouse.app)  
-For inquiries or support: [contact@hustlehouse.com](mailto:contact@hustlehouse.com)
